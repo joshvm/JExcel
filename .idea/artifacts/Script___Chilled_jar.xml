@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Script - Chilled:jar">
+    <output-path>$PROJECT_DIR$/Scripts</output-path>
+    <root id="archive" name="Script - Chilled.jar">
+      <element id="module-output" name="Script - Chilled" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/API/API.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
